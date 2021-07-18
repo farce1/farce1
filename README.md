@@ -14,12 +14,11 @@ I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursu
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-samujjwaal-) above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farce1&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farce1&theme=dark" width="48%" >
 ## Some of my Github Public Stats-->
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=farce1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/farce1)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farce1&theme=dark" width="48%" >
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farce1&layout=compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=farce1&color=blue)
 
 <!--
