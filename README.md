@@ -1,4 +1,4 @@
-## Hi there, I'm Grzegorz 👋👨🏻‍💻
+## Hi 👋👨🏻‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Grzegorz%20Sztuczynski-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grzegorz-sztuczynski/ "Connect on LinkedIn")
 <!--[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
