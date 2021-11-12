@@ -1,7 +1,8 @@
 ## Hi 👋👨🏻‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Grzegorz%20Sztuczynski-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grzegorz-sztuczynski/ "Connect on LinkedIn")
-[![Profile badge](https://www.codewars.com/users/farce1/badges/large)](https://www.codewars.com/users/farce1)
+
+[![Profile badge](https://www.codewars.com/users/farce1/badges/micro)](https://www.codewars.com/users/farce1)
 <!--[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
