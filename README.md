@@ -5,9 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=farce1&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="farce1" />
  </div>
 
-- 🔭 I’m currently working on **My own full-stack platform**
-
-- 🌱 I’m currently learning **Nest and all backend stuff :)**
+- 🌱 I’m currently learning **Rust**
 
 - [![Profile badge](https://www.codewars.com/users/farce1/badges/micro)](https://www.codewars.com/users/farce1)
 
