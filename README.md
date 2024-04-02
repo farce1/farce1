@@ -4,3 +4,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### Fav meme
+![image](https://github.com/farce1/farce1/assets/19194188/8fe82a78-d99c-4918-b071-f68fa4ba4dfd)
